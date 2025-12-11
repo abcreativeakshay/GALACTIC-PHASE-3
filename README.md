@@ -1,4 +1,4 @@
-```markdown
+
 # Galactic ML: NOVA-7
 
 <div align="center">
