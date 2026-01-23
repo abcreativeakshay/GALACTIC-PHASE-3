@@ -4,7 +4,7 @@ import { StudyGuideData } from '../types';
 
 // Initialize the API client
 const apiKey = process.env.API_KEY || '';
-const ai = new GoogleGenAI({ apiKey });
+const ai = new GoogleGenAI({ AIzaSyAr0_gtXxGtSH6JoZE1YPJqkNGrSmmYiyo });
 
 export const generateResponse = async (
   prompt: string, 
